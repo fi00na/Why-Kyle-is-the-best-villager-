@@ -7,3 +7,10 @@ text-align: center;
 H1{
 text-align: center;
 }
+.flexBox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
